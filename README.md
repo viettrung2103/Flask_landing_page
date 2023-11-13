@@ -24,7 +24,7 @@ source .venv/bin/activate
 ```
 On Windows:
 ```bash
-.venv\Scripts\Activate.ps1
+.venv\Scripts\activate
 ```
 ### Install Flask
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask.
